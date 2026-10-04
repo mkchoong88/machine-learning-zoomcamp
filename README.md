@@ -1,3 +1,3 @@
-# machine-learning-zoomcamp
+# Machine-Learning-Zoomcamp
 
-Hello world
+All the homeworks and projects will be documented here.
